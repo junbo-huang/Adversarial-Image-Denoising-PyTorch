@@ -1,7 +1,6 @@
 # Ignore Downloaded Pytorch Data Files
 data/
 custom_data/
-trained_models/cifar10/resnet18_2.0+0_BL_*.pth
 run.bat
 *.tar
 
